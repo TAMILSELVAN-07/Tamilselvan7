@@ -1,4 +1,4 @@
-## IITMDSA-DTM11-Final-Project
+## IITMDSA-DTM5B-Final-Project
 # E-Commerce-Customer-Segmentation
 This project aims to perform customer segmentation analysis on an E-commerce dataset using the K-means clustering algorithm. The goal is to identify the optimal number of clusters (k) based on the maximum silhouette score and uncover purchasing patterns among customers.
 
